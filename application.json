@@ -1,0 +1,14 @@
+{
+    "github": {
+        "username": "",
+        "token": ""
+    },
+    "jenkins": {
+        "username": "",
+        "password": ""
+    },
+    "aws": {
+        "username": "",
+        "password": ""
+    }
+}
